@@ -309,7 +309,7 @@ export default function ManFaLandingPage() {
             </p>
           </div>
           <a
-            href="https://wa.me/525610376624525610376624"
+            href="https://wa.me/525610376624"
             className="flex whitespace-nowrap rounded-full bg-[#238B6E] px-8 py-5 font-black text-white transition hover:bg-[#1F725B]"
           >
             <span className="flex items-center gap-3">
