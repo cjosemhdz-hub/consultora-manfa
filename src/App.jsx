@@ -27,8 +27,6 @@ const COLORS = {
   navySoft: '#1F5563',
   aqua: '#83B2AB',
   orange: '#FFA500',
-  orangeDark: '#D48806',
-  warmOrange: '#F59E0B',
   warmBg: '#FFF8E8',
   brown: '#7C5A3C',
   white: '#FFFFFF',
